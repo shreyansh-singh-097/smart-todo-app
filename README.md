@@ -15,3 +15,9 @@ Features
 - Event handling
 - Working with localStorage
 - Building interactive UI without any framework
+
+ Technologies Used
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+- Browser localStorage API
