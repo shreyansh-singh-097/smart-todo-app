@@ -17,7 +17,8 @@ Features
 - Building interactive UI without any framework
 
  Technologies Used
-- HTML
+- HTML5
 - CSS
+- 
 - JavaScript (Vanilla JS)
 - Browser localStorage API
