@@ -22,3 +22,5 @@ Features
 - 
 - JavaScript (Vanilla JS)
 - Browser localStorage API
+- Coded by Shreyansh Singh
+- 
